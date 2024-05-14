@@ -1,0 +1,9 @@
+{
+    "editor.defaultFormatter": "formulahendry.code-runner",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    }
+}
